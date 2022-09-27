@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">codepath_wishlist</string>
+    <string name="item_name">item_name</string>
+    <string name="item_url">item_url</string>
+    <string name="item_price">item_price</string>
+    <string name="submit">submit</string>
+    <string name="coffee_mug">coffee</string>
+    <string name="_39_99">_39</string>
+    <string name="yeticom">yeti</string>
+</resources>
