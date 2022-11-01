@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+![]https://github.com/tythegoat1/codepath_wishlist/blob/master/walkthrough_list.gif
 Here's a walkthrough of implemented user stories:
 https://submissions.us-east-1.linodeobjects.com/and102/WI1pPx0E.gif
 
